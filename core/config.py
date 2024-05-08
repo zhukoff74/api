@@ -1,0 +1,4 @@
+DATABASE = 'sklad'
+HOST = '10.22.63.55'
+USER = 'sa'
+PASSWORD = 'PkDn30Nk'
